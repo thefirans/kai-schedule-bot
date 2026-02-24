@@ -1,10 +1,10 @@
-# NAU Schedule Bot 🎓
+# KAI Schedule Bot 🎓
 
-Telegram bot that scrapes your schedule from `cabinet.nau.edu.ua` and sends reminders before lessons.
+Telegram bot that scrapes your schedule from `cabinet.kai.edu.ua` and sends reminders before lessons.
 
 ## Features
 
-- **Multi-user** — share with friends, each person links their own NAU account
+- **Multi-user** — share with friends, each person links their own KAI account
 - **In-chat registration** — no config files, just `/start` and enter credentials
 - **Password auto-delete** — credential messages are deleted from chat immediately
 - **Smart caching** — schedule is cached in SQLite, refreshed every 6 hours
