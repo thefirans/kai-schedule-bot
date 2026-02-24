@@ -3,4 +3,7 @@ bot.db-shm
 bot.db-wal
 __pycache__/
 config.py
+config.example.py
 *.key
+*.key.pub
+HOW-TO-UPDATE.txt
